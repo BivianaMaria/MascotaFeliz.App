@@ -26,21 +26,21 @@ namespace MascotaFeliz.App.Consola
             //ListarVeterinariosFiltro();
              //AddMascota();
              //BuscarMascota(1);
-             ListarMascotas();
+             //ListarMascotas();
              //ListarMascotasFiltro();
             //AddHistoria();
         }
 
-        /// Metodo crear un Dueño en la BD 
+         //Metodo crear un Dueño en la BD 
         private static void AddDueno()
         {
             var dueno = new Dueno
             {
-                Nombres = "Calor",
-                Apellidos = "Gomez", 
-                Direccion = "Carrera 45 No. 110 - 21",
-                Telefono = "31842534112",
-                Correo = "carlosc@gmail.com"
+                Nombres = "Fredy",
+                Apellidos = "Berrio", 
+                Direccion = "Calle 20 No. 70 - 31",
+                Telefono = "12345678902",
+                Correo = "FredyB@gmail.com"
             };
             _repoDueno.AddDueno(dueno);
         }
@@ -77,8 +77,8 @@ namespace MascotaFeliz.App.Consola
         {
             var veterinario = new Veterinario
             {
-                Nombres = "El Chavo",
-                Apellidos = "Restrepo", 
+                Nombres = "Oscar",
+                Apellidos = "Osorio", 
                 Direccion = "Calle 30 # 16-30",
                 Telefono = "3202134578",
                 TarjetaProfesional = "TP0002"

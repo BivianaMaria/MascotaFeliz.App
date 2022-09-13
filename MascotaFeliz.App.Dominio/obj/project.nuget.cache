@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3ynYhE38kT5j3YEh4XdXui9T4miKGXxGugfWFCJFyFwl2qpOv48ppQAwUh0XtJDlKU/bashmrpdSYo4wldEXdg==",
+  "dgSpecHash": "3eQ7B/Kv1Se4mxbd/gRNqaop5wW5hH9JbmB0uHbVY9Ktks2FVrzvhXsW5xh9lyZWxYNDASM8Og3Kbuem2fJ+Hg==",
   "success": true,
   "projectFilePath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Usuario1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Usuario1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Personal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
